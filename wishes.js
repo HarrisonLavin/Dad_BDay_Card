@@ -26,6 +26,8 @@ $(document).ready(function(){
       updateTime()
       setInterval(updateTime, 1000);
       $('#intro-message').append("<h3 align='center'>Happy Birthday, Dad!</h3>")
+      $('#intro-message').append("<h3 align='center'>Love, Harry</h3>")
+
 
 
 
